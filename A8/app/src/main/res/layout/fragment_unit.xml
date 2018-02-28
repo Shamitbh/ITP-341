@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextUnits"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fromText"
+        android:text="@string/from"
+        android:layout_below="@+id/editTextUnits"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toText"
+        android:text="@string/to"
+        android:layout_below="@id/editTextUnits"
+        android:layout_toEndOf="@+id/fromText"
+        android:layout_marginStart="150dp"/>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/unitRadioGroupFrom"
+        android:layout_below="@+id/editTextUnits"
+        android:layout_toEndOf="@+id/fromText"
+        android:layout_marginStart="10dp">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cmFrom"
+            android:text="@string/centimeters"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/meterFrom"
+            android:text="@string/meters"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/feetFrom"
+            android:text="@string/feet"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/milesFrom"
+            android:text="@string/miles"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/kmFrom"
+            android:text="@string/kilometers"/>
+    </RadioGroup>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/unitRadioGroupTo"
+        android:layout_below="@+id/editTextUnits"
+        android:layout_toEndOf="@+id/toText"
+        android:layout_marginStart="10dp">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cmTo"
+            android:text="@string/centimeters"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/meterTo"
+            android:text="@string/meters"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/feetTo"
+            android:text="@string/feet"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/milesTo"
+            android:text="@string/miles"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/kmTo"
+            android:text="@string/kilometers"/>
+    </RadioGroup>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/convertBtn"
+        android:text="@string/convertText"
+        android:layout_below="@+id/unitRadioGroupFrom"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/resultTextView"
+        android:text="@string/result"
+        android:layout_below="@id/convertBtn"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/resultNumber"
+        android:text="@string/blank"
+        android:layout_below="@id/convertBtn"
+        android:layout_toEndOf="@id/resultTextView"
+        android:layout_marginStart="10dp"/>
+
+</RelativeLayout>

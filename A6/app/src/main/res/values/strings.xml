@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">A6</string>
+    <string name="solve_the_puzzle">Solve the Puzzle</string>
+    <string name="hint1">"I'm feeling hot!"</string>
+    <string name="hint2">"I'm living life _____"</string>
+    <string name="hint3">"My rap name rhymes with Brake"</string>
+
+    <string name="room1">"Room 1"</string>
+    <string name="room2">"Room 2"</string>
+    <string name="room3">"Room 3"</string>
+    <string name="solve">"Solve"</string>
+
+    <string name="Rvalue">"R: 0"</string>
+    <string name="Gvalue">"G: 0"</string>
+    <string name="Bvalue">"B: 0"</string>
+
+    <string name="preview">Preview</string>
+    <string name="btn_set_changes">Set Changes</string>
+
+    <string name="size">Size</string>
+    <string name="nameText">What is my name?</string>
+    <string name="guess">Enter your guess...</string>
+
+    <string name="tryAgain">Try again!</string>
+    <string name="youWin">You WIN!</string>
+
+
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="itp341.bhatia.shamit.a6.MainActivity">
+    <RelativeLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/solve_the_puzzle"
+            android:text="@string/solve_the_puzzle"
+            android:textSize="40dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="100dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/hint1"
+            android:text="@string/hint1"
+            android:textSize="20dp"
+            android:textColor="@color/red"
+            android:layout_below="@+id/solve_the_puzzle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/hint2"
+            android:text="@string/hint2"
+            android:textSize="20dp"
+            android:textColor="@color/red"
+            android:layout_below="@+id/hint1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/hint3"
+            android:text="@string/hint3"
+            android:textSize="20dp"
+            android:textColor="@color/red"
+            android:layout_below="@+id/hint2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="50dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/room1"
+            android:text="@string/room1"
+            android:layout_below="@id/hint3"
+            android:layout_marginStart="50dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/room2"
+            android:text="@string/room2"
+            android:layout_below="@id/hint3"
+            android:layout_toEndOf="@id/room1"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/room3"
+            android:text="@string/room3"
+            android:layout_below="@id/hint3"
+            android:layout_toEndOf="@+id/room2"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/solve"
+            android:text="@string/solve"
+            android:layout_below="@id/room1"
+            android:layout_alignStart="@id/room1"
+            android:layout_alignEnd="@+id/room3"
+            android:layout_toEndOf="@+id/room3" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/size"
+            android:text="@string/size"
+            android:textSize="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="100dp"/>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerSize"
+            android:entries="@array/array_sizes"
+            android:layout_toEndOf="@+id/size"
+            android:layout_alignBottom="@+id/size">
+        </Spinner>
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSetChangesSize"
+            android:text="@string/btn_set_changes"
+            android:layout_below="@id/size"
+            android:layout_alignStart="@+id/size"
+            android:layout_alignEnd="@+id/spinnerSize"
+            android:layout_marginTop="40dp"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

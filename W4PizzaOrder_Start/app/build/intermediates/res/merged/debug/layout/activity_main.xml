@@ -1,0 +1,138 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/text_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_name"
+        android:layout_alignParentStart="true"
+        android:layout_alignBaseline="@+id/edit_name"
+        android:textSize="24sp"/>
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_hint_name"
+        android:textSize="24sp"
+        android:layout_toEndOf="@+id/text_name"
+        android:layout_alignParentEnd="true"/>
+
+    <TextView
+        android:id="@+id/text_toppings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_toppings"
+        android:layout_below="@+id/text_name"
+        android:textSize="24sp"
+        android:layout_marginTop="24dp"/>
+
+    <CheckBox
+        android:id="@+id/check_pepperoni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_pepperoni"
+        android:checked="false"
+        android:layout_below="@+id/text_toppings" />
+
+    <CheckBox
+        android:id="@+id/check_pineapple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_pineappple"
+        android:checked="false"
+        android:layout_toEndOf="@+id/check_pepperoni"
+        android:layout_below="@+id/text_toppings" />
+
+    <CheckBox
+        android:id="@+id/check_tofu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_tofu"
+        android:checked="false"
+        android:layout_toEndOf="@+id/check_pineapple"
+        android:layout_below="@+id/text_toppings" />
+
+    <TextView
+        android:id="@+id/text_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_size"
+        android:textSize="24sp"
+        android:layout_below="@+id/check_pepperoni"
+        android:layout_marginTop="16dp"/>
+
+    <RadioGroup
+        android:id="@+id/radio_group_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_size"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radio_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_small"
+            android:checked="false" />
+        <RadioButton
+            android:id="@+id/radio_medium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_medium"
+            android:checked="false" />
+        <RadioButton
+            android:id="@+id/radio_large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_large"
+            android:checked="false" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/text_specials"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_specials"
+        android:layout_below="@+id/radio_group_size"
+        android:textSize="24sp"
+        android:layout_marginTop="16dp" />
+
+    <Spinner
+        android:id="@+id/Spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/text_specials"
+        android:layout_alignBottom="@+id/text_specials">
+
+    </Spinner>
+
+
+
+<!-- Recommended Ids
+text_name: TextView for name
+edit_name: EditText for name
+text_toppings: TextView for toppings
+check_pepperoni: CheckBox
+check_pineapple: Checkbox
+check_tofu: CheckBox
+text_size: TextView for size
+radio_group_size: RadioGroup for size choices
+radio_small: RadioButton
+radio_medium: RadioButton
+radio_large: RadioButton
+text_specials: TextView for Specials
+spinner_specials: Spinner
+text_num_pizzas: TextView that shows "Number of Pizzas"
+seekbar_num_pizzas: SeekBar
+text_num_pizzas_seekbar_progress: TextView that displays how many pizzas from spinner_seekbar
+text_order_summary: TextView that shows "Order Summary"
+text_order_display: TextView that will display full order
+    -->
+
+
+</RelativeLayout>

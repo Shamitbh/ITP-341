@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585392151922",
+    "firebase_url": "https://polease-final-project.firebaseio.com",
+    "project_id": "polease-final-project",
+    "storage_bucket": "polease-final-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585392151922:android:ecabd10109b7095a",
+        "android_client_info": {
+          "package_name": "itp341.bhatia.shamit.polease_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585392151922-o4k0ke1pqsd3329nnl1pmbe4qvf1p9ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itp341.bhatia.shamit.polease_final_project",
+            "certificate_hash": "38712876579f4d517a6f24fd20a8b6ee6f39f95a"
+          }
+        },
+        {
+          "client_id": "585392151922-8pt55b8o923na6arsbovqb0k4pifrped.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fyuiap0PebHnDpfJH4kix8eaus-lx9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585392151922-8pt55b8o923na6arsbovqb0k4pifrped.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

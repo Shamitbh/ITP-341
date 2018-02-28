@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow_left.png",
+        "source": "/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/src/main/res/drawable-hdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow_right.png",
+        "source": "/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/src/main/res/drawable-hdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

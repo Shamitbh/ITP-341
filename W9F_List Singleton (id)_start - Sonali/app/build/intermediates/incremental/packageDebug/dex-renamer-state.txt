@@ -1,0 +1,4 @@
+#Thu Nov 02 01:16:55 PDT 2017
+base.0=/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

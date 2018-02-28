@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="itp341.bhatia.shamit.a7.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ticketLabel"
+            android:text="@string/total_tickets_sold_today"
+            android:textSize="20sp"
+            android:layout_marginBottom="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ticketCount"
+            android:text="@string/ticket_count"
+            android:textSize="20sp"
+            android:layout_alignBaseline="@+id/ticketLabel"
+            android:layout_alignParentEnd="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/startLocation"
+            android:text="@string/starting_location"
+            android:layout_below="@id/ticketLabel"/>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerStart"
+            android:entries="@array/spinner_start"
+            android:layout_alignBaseline="@+id/startLocation"
+            android:layout_toEndOf="@+id/startLocation"
+            android:layout_alignParentEnd="true">
+        </Spinner>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/endLocation"
+            android:text="@string/ending_location"
+            android:layout_below="@id/startLocation"
+            android:layout_marginBottom="15dp"/>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerEnd"
+            android:entries="@array/spinner_start"
+            android:layout_alignBaseline="@+id/endLocation"
+            android:layout_toEndOf="@+id/endLocation"
+            android:layout_alignStart="@+id/spinnerStart"
+            android:layout_alignParentEnd="true">
+        </Spinner>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/whatTkt"
+            android:text="@string/what_tkt"
+            android:layout_below="@id/endLocation"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="15dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/whatPriority"
+            android:text="@string/what_priority"
+            android:layout_below="@id/endLocation"
+            android:layout_toEndOf="@+id/whatTkt"
+            android:layout_marginStart="60dp"
+            android:layout_marginBottom="15dp"/>
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/groupTkt"
+            android:layout_below="@+id/whatTkt"
+            android:layout_alignStart="@+id/whatTkt">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnOneWay"
+                android:text="@string/one_way"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnRoundTrip"
+                android:text="@string/round_trip" />
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnDayPass"
+                android:text="@string/day_pass" />
+        </RadioGroup>
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/groupPriority"
+            android:layout_below="@+id/whatPriority"
+            android:layout_alignStart="@+id/whatPriority">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnNo"
+                android:text="@string/no" />
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnDisabled"
+                android:text="@string/disabled"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPregnant"
+                android:text="@string/pregnant"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnElderly"
+                android:text="@string/elderly"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnVeteran"
+                android:text="@string/veteran"/>
+        </RadioGroup>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/useCard"
+            android:text="@string/use_card"
+            android:textSize="14sp"
+            android:layout_marginTop="400dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/verify"
+            android:text="@string/verify"
+            android:textSize="14sp"
+            android:layout_below="@id/useCard" />
+    </RelativeLayout>
+
+
+
+</android.support.constraint.ConstraintLayout>

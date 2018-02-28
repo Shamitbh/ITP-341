@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">A8</string>
+    <string name="tipCalc">Tip Calc</string>
+    <string name="unitConv">Unit Conv</string>
+    <string name="moneyExch">Money Exch</string>
+
+    <string name="bill_amount">Bill Amount</string>
+    <string name="percent">Percent</string>
+    <string name="percentNum">0%</string>
+    <string name="tip">Tip</string>
+    <string name="tip_count">$0.00</string>
+    <string name="total">Total</string>
+    <string name="total_count">$0.00</string>
+    <string name="split_bill">Split Bill?</string>
+    <string name="per_person">Per Person</string>
+    <string name="per_person_count">$0.00</string>
+    <string name="to">To:</string>
+    <string name="from">From:</string>
+
+    <string name="centimeters">centimeters</string>
+    <string name="meters">meters</string>
+    <string name="feet">feet</string>
+    <string name="miles">miles</string>
+    <string name="kilometers">kilometers</string>
+    <string name="convertText">convert</string>
+    <string name="result">Result:</string>
+    <string name="zero">0</string>
+    <string name="blank"></string>
+    <string name="none">none</string>
+
+    <string name="USD">USD</string>
+    <string name="yuan">Yuan</string>
+    <string name="euro">Euro</string>
+</resources>

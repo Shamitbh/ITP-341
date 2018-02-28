@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="usc_question">What USC apparel would you like to order?</string>
+    <string name="hoodie">Hoodie</string>
+    <string name="hat">Hat</string>
+    <string name="hoodieClick">You ordered a USC hoodie! (</string>
+    <string name="hatClick">You ordered a USC hat! (</string>
+    <string name="times">" times)"</string>
+    <string name="time">" time)"</string>
+</resources>

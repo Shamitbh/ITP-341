@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/enterCard"
+        android:text="@string/enter_card"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardNumEnter"
+        android:text="@string/card_num_label"
+        android:layout_below="@+id/enterCard"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardNameEnter"
+        android:text="@string/card_name_label"
+        android:layout_below="@+id/cardNumEnter"
+        android:layout_alignStart="@+id/cardNumEnter"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardNumUserEntry"
+        android:layout_alignBaseline="@+id/cardNumEnter"
+        android:layout_toEndOf="@+id/cardNumEnter" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardNameUserEntry"
+        android:layout_alignBaseline="@+id/cardNameEnter"
+        android:layout_toEndOf="@+id/cardNameEnter"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/saveCard"
+        android:text="@string/save_card"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/puppy_row_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/puppy_row_name"
+
+        android:text="Puppy Name"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/pupp_row_breed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/puppy_row_age"
+
+        android:text="Breed"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/puppy_row_age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/puppy_row_name"
+
+        android:layout_toEndOf="@+id/puppy_row_name"
+        android:text="Age"
+        android:textAlignment="viewStart" />
+
+</LinearLayout>

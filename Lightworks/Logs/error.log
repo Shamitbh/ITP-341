@@ -1,0 +1,201 @@
+887236.267: unrecognised option `-psn_0_71185375'.
+Cardvt!
+Usage: /Applications/Lightworks.app/Contents/MacOS/Lightworks -transcode <format> -in <filename> -out <filename>
+Lightworks 64-bit (Release, build Lw : 93145 Common : 92765 Dependencies : 92011 dated Apr  3 2017)
+Starting at Tue Nov 14 13:29:44 2017
+
+OS Version            : Sierra (Version 10.12.6 (Build 16G29))
+Machine number        : 1508
+Available memory      : 2.3 Gb
+Total memory          : 6.3 Gb
+Virtual Address Range : 2.8 Gb
+Number of CPUs        : 4
+User has admin rights : No
+Graphics driver       : Intel Inc.
+
+887245.372: Setting project base directory /Users/Shamit/Lightworks/Projects/
+887245.372: Starting window manager
+887245.941: Checking library versions..
+887245.948: ------ Loading plugin : omf ------
+License initialisation error <License doesn't exist>
+License initialisation error <License doesn't exist>
+887245.966: Success
+887245.966: ------ Loading plugin : plugplug ------
+887245.967: Skipped
+887245.967: ------ Loading plugin : Pond5 ------
+887246.040: Success
+887246.040: ------ Loading plugin : ProjectShare ------
+License initialisation error <License doesn't exist>
+887246.110: Success
+887246.110: ------ Loading plugin : r3d ------
+887246.112: R3D SDK library version = R3DAPI 6.2.1-32A01 (20160809 1GR M64S)
+887246.112: R3D SDK header version  = 6.2
+887246.134: RED decode using Intel(R) Iris(TM) Graphics 6100, Apple
+887250.158: Success
+887250.158: ------ Loading plugin : SharedSoftDrv ------
+887250.171: Success
+887250.171: ------ Loading plugin : uiopt ------
+License initialisation error <License doesn't exist>
+887250.186: Success
+887250.186: ------ Loading plugin : vimeo ------
+887250.187: Success
+887250.187: ------ Loading plugin : xml ------
+License initialisation error <License doesn't exist>
+887250.193: Success
+887250.193: ------ Loading plugin : YouTube ------
+887250.196: Success
+887250.196: ------ Loading plugin : aaf ------
+License initialisation error <License doesn't exist>
+887250.198: Success
+887250.198: ------ Loading plugin : AC3 ------
+887250.263: Success
+887250.263: ------ Loading plugin : AJA ------
+License initialisation error <License doesn't exist>
+887250.355: Success
+887250.355: ------ Loading plugin : AudioNetwork ------
+887250.360: Success
+887250.361: ------ Loading plugin : Cineform ------
+887250.478: Success
+887250.478: ------ Loading plugin : codecs ------
+887251.456: Plugins loaded: 22 (full: 21, demo: 0, free: 1)
+887251.462: Success
+887251.462: ------ Loading plugin : CoreAudio ------
+887251.529: channels: 2, samplerate 44100.000000
+887251.530: Buffer size is 4096 bytes
+887251.614: codec: Apple 24-bit RGB
+887251.614: codec: Apple 32-bit ARGB
+887251.614: codec: Apple ProRes 422
+887251.614: codec: Apple ProRes 422 HQ
+887251.614: codec: Apple ProRes 422 LT
+887251.614: codec: Apple ProRes 422 Proxy
+887251.614: codec: Apple ProRes 4444
+887251.614: codec: Apple H.263
+887251.614: codec: Apple H.264 (HW)
+887251.614: codec: Apple H.264 (SW)
+887251.614: codec: Apple JPEG
+887251.616: 2 devices
+887251.625: Built-in Microphone 
+887251.626: Success
+887251.626: ------ Loading plugin : DeckLink_drv ------
+License initialisation error <License doesn't exist>
+887251.699: Success
+887251.699: ------ Loading plugin : dng ------
+887251.699: Success
+887251.699: ------ Loading plugin : DNxHD ------
+887251.699: Success
+887251.699: ------ Loading plugin : EsWrappers ------
+887251.706: Success
+887251.706: ------ Loading plugin : export ------
+887251.706: Success
+887251.706: ------ Loading plugin : ffmpeg ------
+887251.729: Success
+887251.729: ------ Loading plugin : fxdrv ------
+887251.758: Success
+887251.758: ------ Loading plugin : LwConsole ------
+License initialisation error <License doesn't exist>
+887251.765: Success
+License initialisation error <License doesn't exist>
+assertion failed rateIsValid at /Users/jenkins/workspace/lightworks/branches/14.0/ole/misc/ProjectRate.cpp line 320
+assertion failed false at /Users/jenkins/workspace/lightworks/branches/14.0/ole/AudAtoms/Aud__Util_AudAtoms.cpp line 172
+887251.781: Loaded device System Sound
+887251.784: Found capture source ScreenCapture
+887251.784: Found capture source CoreAudio Capture
+887251.893: ******************************************
+
+887251.893:  WARNING!!! UNABLE TO FIND COOKIE NUMBER FILE
+887251.893:  in the current directory or (/Users/Shamit/Lightworks/Projects/cookie.num)
+887251.893:  This WILL cause repeat cookies and missing shots.
+887251.893:  System will attempt to repair automatically
+
+887251.893: ******************************************
+887251.893: previous run exited incorrectly
+887251.941: Using LwOverlayResource [Lw Overlay Resource]
+887252.358: Added media location : /Users/Shamit/Lightworks/Media/Material/
+887252.358: Added media location : /Users/Shamit/Lightworks/Media/Sound/
+887254.386: Found capture source ScreenCapture
+887254.386: Found capture source CoreAudio Capture
+887254.386: Activating DefaultVideo Software Interrupt interrupt
+887254.586: Activating DefaultVideo Software Interrupt interrupt
+887272.596: ----- Entered project 'AB Intro Vid Anahat 2017' (0 logs, Rate : 24 fps, Output : 1080p (sf)) -----
+887274.845: reopen "/Users/Shamit/Movies/Fuzzy Fathers Day.mov" with MainConcept FileReader for eVideoEssence
+887275.134: Open "/Users/Shamit/Movies/Fuzzy Fathers Day.mov" with MainConcept FileReader for eVideoEssence
+887275.145: reopen "/Users/Shamit/Movies/Fuzzy Fathers Day.mov" with MainConcept FileReader for eAudioEssence
+887275.314: Open "/Users/Shamit/Movies/Fuzzy Fathers Day.mov" with MainConcept FileReader for eAudioEssence
+887275.404: reopen "/Users/Shamit/Movies/Fuzzy Fathers Day.mov" with MainConcept FileReader for eVideoEssence
+887275.580: Open "/Users/Shamit/Movies/Fuzzy Fathers Day.mov" with MainConcept FileReader for eVideoEssence
+887282.495: Open "/Users/Shamit/Desktop/comedy.jpg" with Software SEQ_FileReader for eVideoEssence
+887282.501: Open "/Users/Shamit/Desktop/drama.jpg" with Software SEQ_FileReader for eVideoEssence
+887282.517: Open "/Users/Shamit/Desktop/action.jpg" with Software SEQ_FileReader for eVideoEssence
+887283.152: Open "/Users/Shamit/Desktop/horror.jpg" with Software SEQ_FileReader for eVideoEssence
+887283.178: reopen "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with MainConcept FileReader for eVideoEssence
+887283.256: Open "/Users/Shamit/Desktop/sci-fi.jpg" with Software SEQ_FileReader for eVideoEssence
+887283.307: Open "/Users/Shamit/Desktop/Screen Shot 2017-09-21 at 9.11.47 AM.png" with Software SEQ_FileReader for eVideoEssence
+887283.365: Open "/Users/Shamit/Desktop/Screen Shot 2017-09-21 at 9.14.14 AM.png" with Software SEQ_FileReader for eVideoEssence
+887283.386: Open "/Users/Shamit/Desktop/Screen Shot 2017-10-19 at 11.33.36 PM.png" with Software SEQ_FileReader for eVideoEssence
+887283.416: read elapsed 12.000ms
+887283.420: Open "/Users/Shamit/Desktop/Screen Shot 2017-10-19 at 5.16.26 PM.png" with Software SEQ_FileReader for eVideoEssence
+887283.450: Open "/Users/Shamit/Desktop/Screen Shot 2017-10-19 at 12.00.00 AM.png" with Software SEQ_FileReader for eVideoEssence
+887283.506: Open "/Users/Shamit/Desktop/Screen Shot 2017-09-29 at 5.38.33 PM.png" with Software SEQ_FileReader for eVideoEssence
+887283.576: Open "/Users/Shamit/Desktop/Screen Shot 2017-09-28 at 6.59.31 PM.png" with Software SEQ_FileReader for eVideoEssence
+887283.588: Open "/Users/Shamit/Desktop/Screen Shot 2017-09-21 at 9.09.53 AM.png" with Software SEQ_FileReader for eVideoEssence
+887283.601: read elapsed 11.000ms
+887283.605: Open "/Users/Shamit/Desktop/Screen Shot 2017-09-21 at 9.09.13 AM.png" with Software SEQ_FileReader for eVideoEssence
+887283.615: Open "/Users/Shamit/Desktop/Screen Shot 2017-09-21 at 9.08.15 AM.png" with Software SEQ_FileReader for eVideoEssence
+887283.708: Open "/Users/Shamit/Desktop/Screen Shot 2017-09-11 at 11.50.17 PM.png" with Software SEQ_FileReader for eVideoEssence
+887283.793: Open "/Users/Shamit/Desktop/Screen Shot 2017-10-20 at 2.08.23 AM.png" with Software SEQ_FileReader for eVideoEssence
+887283.883: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with MainConcept FileReader for eVideoEssence
+887283.888: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887284.119: Open "/Users/Shamit/Desktop/IMG_3688.JPG" with Software SEQ_FileReader for eVideoEssence
+887284.195: Open "/Users/Shamit/Desktop/IMG_5696.JPG" with Software SEQ_FileReader for eVideoEssence
+887285.387: Open "/Users/Shamit/Desktop/Screen Shot 2017-10-21 at 10.43.12 AM.png" with Software SEQ_FileReader for eVideoEssence
+887285.746: Open "/Users/Shamit/Desktop/Screen Shot 2017-10-27 at 3.25.44 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.756: Open "/Users/Shamit/Desktop/Screen Shot 2017-10-27 at 3.25.49 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.775: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-03 at 6.57.32 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.784: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-05 at 2.01.43 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.820: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-07 at 11.06.39 AM.png" with Software SEQ_FileReader for eVideoEssence
+887285.829: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-09 at 6.50.18 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.853: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-10 at 3.58.55 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.856: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-10 at 3.59.03 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.874: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-10 at 3.59.19 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.896: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-12 at 4.51.51 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.906: Open "/Users/Shamit/Desktop/Screen Shot 2017-11-12 at 11.48.16 PM.png" with Software SEQ_FileReader for eVideoEssence
+887285.954: Open "/Users/Shamit/Desktop/unknownImage.png" with Software SEQ_FileReader for eVideoEssence
+887285.961: Open "/Users/Shamit/Desktop/Sonali Shamit 1.jpg" with Software SEQ_FileReader for eVideoEssence
+887285.978: Open "/Users/Shamit/Desktop/Screenshot_1508354539.png" with Software SEQ_FileReader for eVideoEssence
+Uknown input format.
+887297.794: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887297.986: 1. ---------- Import Log ----------
+887297.986: 1.   /Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov
+887297.986: 1.
+887297.986: 1.   Intro Vid 2k17_No Titles.mov
+887297.986: 1.   Finished
+887297.986: 1. ---------------
+Uknown input format.
+887304.248: 2. ---------- Import Log ----------
+887304.248: 2.   /Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov
+887304.248: 2.
+887304.248: 2.   Intro Vid 2k17_No Titles.mov
+887304.248: 2.   Finished
+887304.248: 2. ---------------
+Uknown input format.
+Uknown input format.
+Uknown input format.
+887325.693: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+Uknown input format.
+887342.911: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+Uknown input format.
+887350.457: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887386.902: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887401.224: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887405.061: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887406.767: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887412.444: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887442.116: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887456.454: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887458.592: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887474.758: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887479.869: Open "/Users/Shamit/Desktop/Intro Vid 2k17_No Titles.mov" with EsWrapper FileReader for eAudioEssence
+887500.259: Closing down VTR subsystem....887500.261: done
+
+<<<< Exiting at : Tue Nov 14 13:34:00 2017
+

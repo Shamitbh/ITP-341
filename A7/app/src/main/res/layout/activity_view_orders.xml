@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/reviewOdr"
+        android:text="@string/review_order"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tripFromLabel"
+        android:text="@string/trip_from"
+        android:layout_below="@+id/reviewOdr"
+        android:layout_marginStart="18dp"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tripToLabel"
+        android:text="@string/trip_to"
+        android:layout_below="@+id/tripFromLabel"
+        android:layout_alignStart="@+id/tripFromLabel"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tripTypeLabel"
+        android:text="@string/trip_type"
+        android:layout_below="@+id/tripToLabel"
+        android:layout_alignStart="@+id/tripFromLabel"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tripPriorityLabel"
+        android:text="@string/trip_priority"
+        android:layout_below="@+id/tripTypeLabel"
+        android:layout_alignStart="@+id/tripFromLabel"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tripFromValue"
+        android:text="@string/none"
+        android:layout_below="@+id/reviewOdr"
+        android:layout_marginStart="168dp"
+        android:layout_alignBaseline="@+id/tripFromLabel"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tripToValue"
+        android:text="@string/none"
+        android:layout_below="@+id/tripFromLabel"
+        android:layout_alignStart="@+id/tripFromValue"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tripTypeValue"
+        android:text="@string/none"
+        android:layout_below="@+id/tripToLabel"
+        android:layout_alignStart="@+id/tripFromValue"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tripPriorityValue"
+        android:text="@string/none"
+        android:layout_below="@+id/tripTypeLabel"
+        android:layout_alignStart="@+id/tripFromValue"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/reviewPmt"
+        android:text="@string/review_payment"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/tripPriorityLabel"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardNumLabel"
+        android:text="@string/card_num_label"
+        android:layout_below="@+id/reviewPmt"
+        android:layout_alignStart="@+id/tripFromLabel"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardNameLabel"
+        android:text="@string/card_name_label"
+        android:layout_below="@+id/cardNumLabel"
+        android:layout_alignStart="@+id/tripFromLabel"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardNumValue"
+        android:text="@string/none"
+        android:layout_below="@+id/tripToLabel"
+        android:layout_alignStart="@+id/tripFromValue"
+        android:layout_alignBaseline="@+id/cardNumLabel"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardNameValue"
+        android:text="@string/none"
+        android:layout_below="@+id/cardNumValue"
+        android:layout_alignStart="@+id/tripFromValue"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/reviewFinal"
+        android:text="@string/review_final"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/cardNameLabel"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="12dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTicket"
+        android:text="@string/edit_ticket"
+        android:layout_below="@+id/reviewFinal"
+        android:layout_toStartOf="@+id/viewTemp"
+        android:layout_alignParentStart="true"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/viewTemp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/reviewFinal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editCard"
+        android:text="@string/edit_card"
+        android:layout_below="@+id/reviewFinal"
+        android:layout_toEndOf="@+id/viewTemp"
+        android:layout_alignParentEnd="true"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/purchase"
+        android:text="@string/purchase"
+        android:layout_below="@+id/editTicket"/>
+
+</RelativeLayout>

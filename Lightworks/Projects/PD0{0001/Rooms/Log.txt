@@ -1,0 +1,36 @@
+{
+   "Components" : {
+      "FileCard" : {
+         "VOBID" : "String=ED0{001C",
+         "COOKIE" : "cookie=ED0{001C"
+      },
+      "CuePanel" : {
+         "NAME" : "cookie=ED0{001C",
+         "GROUPID" : "String=ED0{001C"
+      },
+      "MultiSourceContentPanel" : {
+         "View" : "int=1",
+         "TileSize" : "String=ISPLargeThumb",
+         "SplitterPos" : "int=98",
+         "size" : "int=0",
+         "ShowNavigator" : "bool=true",
+         "ReelGallery" : "int=0",
+         "LastTab" : "String=Project Contents",
+         "handle" : "String=GZ1Z0000",
+         "ED0{001C" : "String=ED0{001C",
+         "BinHandle" : "String=GZ1Z0000|INVALID"
+      }
+   },
+   "Splits" : {
+      "Value" : 0.5,
+      "Right" : {
+         "Value" : 0.3655,
+         "Bottom" : {
+            "Value" : 0.4993
+         }
+      }
+   },
+   "Misc" : {
+      "TileSize" : "ISPLargeThumb"
+   }
+}

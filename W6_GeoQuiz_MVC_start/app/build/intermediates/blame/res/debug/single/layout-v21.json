@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

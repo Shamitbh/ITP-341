@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                tools:context="itp341.a4_start.MainActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dogetitle"
+        android:id="@+id/textView"
+        android:layout_marginStart="125dp"
+        android:textSize="20sp"
+        android:layout_marginBottom="40dp"
+        android:layout_below="@+id/textView6"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textHuman"
+        android:id="@+id/textView2"
+        android:textSize="20sp"
+        android:layout_marginStart="5dp"
+        android:layout_below="@+id/textView3"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textTreats"
+        android:textSize="20sp"
+        android:id="@+id/textView3"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView4"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textFireHydrant"
+        android:id="@+id/textView5"
+        android:layout_below="@+id/textView2"
+        android:textSize="20sp"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textShoes"
+        android:id="@+id/textView4"
+        android:layout_below="@id/textView"
+        android:layout_alignStart="@+id/textView2"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gameTitle"
+        android:id="@+id/textView6"
+        android:layout_marginBottom="5dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/initialDogeValue"
+        android:id="@+id/textViewDogeCount"
+        android:layout_marginStart="10dp"
+        android:layout_alignBaseline="@+id/textView"
+        android:layout_toEndOf="@+id/textView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/initialDogeValue"
+        android:textSize="20sp"
+        android:id="@+id/textViewHydrantCount"
+        android:layout_marginStart="10dp"
+        android:layout_alignBaseline="@+id/textView5"
+        android:layout_toEndOf="@+id/textView5" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/initialDogeValue"
+        android:textSize="20sp"
+        android:id="@+id/textViewHumanCount"
+        android:layout_marginStart="10dp"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_toEndOf="@+id/textView2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/initialDogeValue"
+        android:textSize="20sp"
+        android:id="@+id/textViewTreatsCount"
+        android:layout_marginStart="10dp"
+        android:layout_alignBaseline="@id/textView3"
+        android:layout_toEndOf="@id/textView3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/initialDogeValue"
+        android:textSize="20sp"
+        android:id="@+id/textViewShoesCount"
+        android:layout_marginStart="10dp"
+        android:layout_alignBaseline="@id/textView4"
+        android:layout_toEndOf="@id/textView4" />
+
+    <ImageButton
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:id="@+id/imageButtonMocha"
+        android:src="@drawable/mocha"
+        android:scaleType="centerCrop"
+        android:cropToPadding="false"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="330dp"
+        android:adjustViewBounds="false" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonAddSymbol"
+        android:id="@+id/buttonBuyHuman"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonAddSymbol"
+        android:id="@+id/buttonBuyHydrant"
+        android:layout_alignBaseline="@+id/textView5"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonAddSymbol"
+        android:id="@+id/buttonBuyTreat"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonAddSymbol"
+        android:id="@+id/buttonBuyShoe"
+        android:layout_alignBaseline="@id/textView4"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:text="@string/details"
+        android:id="@+id/buttonDetails"
+        android:layout_marginTop="380dp" />
+
+</RelativeLayout>

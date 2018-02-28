@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="itp341.bhatia.shamit.a3.MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="148sp"
+        android:orientation="horizontal"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp">
+
+        <ImageView
+            android:id="@+id/image_american"
+            android:layout_width="150sp"
+            android:layout_height="150sp"
+            android:layout_marginEnd="20sp" />
+
+        <ImageView
+            android:id="@+id/image_chinese"
+            android:layout_width="150sp"
+            android:layout_height="150sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp">
+
+        <TextView
+            android:id="@+id/text_american"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/american"
+            android:layout_marginEnd="20sp"
+            android:textSize="16sp"
+            android:textAlignment="center" />
+        <TextView
+            android:id="@+id/text_chinese"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/chinese"
+            android:textSize="16sp"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="148sp"
+        android:orientation="horizontal"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp">
+
+        <ImageView
+            android:id="@+id/image_indian"
+            android:layout_width="150sp"
+            android:layout_height="150sp"
+            android:layout_marginEnd="20sp" />
+
+        <ImageView
+            android:id="@+id/image_italian"
+            android:layout_width="150sp"
+            android:layout_height="150sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp">
+
+        <TextView
+            android:id="@+id/text_indian"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/indian"
+            android:layout_marginEnd="20sp"
+            android:textSize="16sp"
+            android:textAlignment="center" />
+        <TextView
+            android:id="@+id/text_italian"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/italian"
+            android:textSize="16sp"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="148sp"
+        android:orientation="horizontal"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp">
+
+        <ImageView
+            android:id="@+id/image_middle_east"
+            android:layout_width="150sp"
+            android:layout_height="150sp"
+            android:layout_marginEnd="20sp" />
+
+        <ImageView
+            android:id="@+id/image_portuguese"
+            android:layout_width="150sp"
+            android:layout_height="150sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp">
+
+        <TextView
+            android:id="@+id/text_middle_east"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/middle_east"
+            android:layout_marginEnd="20sp"
+            android:textSize="16sp"
+            android:textAlignment="center" />
+        <TextView
+            android:id="@+id/text_portuguese"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/portuguese"
+            android:textSize="16sp"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+</android.support.v7.widget.LinearLayoutCompat>
+</ScrollView>

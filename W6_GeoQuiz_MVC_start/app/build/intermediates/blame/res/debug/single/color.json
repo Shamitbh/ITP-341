@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W6_GeoQuiz_MVC_start/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/color/switch_thumb_material_dark.xml"
+    }
+]

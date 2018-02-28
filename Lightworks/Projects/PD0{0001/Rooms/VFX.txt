@@ -1,0 +1,13 @@
+{
+   "Components" : {
+   },
+   "Splits" : {
+      "Value" : 0.2965,
+      "Right" : {
+         "Value" : 0.1847
+      }
+   },
+   "Misc" : {
+      "TileSize" : "ISPHugeThumb"
+   }
+}

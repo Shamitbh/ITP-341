@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Favorite Food</string>
+
+    <string name="american_link">http://tinyurl.com/zeyeltk</string>
+    <string name="chinese_link">http://tinyurl.com/y8yspqrs</string>
+    <string name="indian_link">http://tinyurl.com/yco8moe7</string>
+    <string name="italian_link">http://tinyurl.com/h3d8cx2</string>
+    <string name="middle_east_link">http://tinyurl.com/y9q76p8u</string>
+    <string name="portuguese_link">http://tinyurl.com/y6vrjp9q</string>
+    <string name="american">American</string>
+    <string name="chinese">Chinese</string>
+    <string name="indian">Indian</string>
+    <string name="italian">Italian</string>
+    <string name="middle_east">Middle East</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="liked">"You liked "</string>
+    <string name="times">" times!"</string>
+    <string name="time">" time!</string>
+
+    <string name="americanFood">"American food "</string>
+    <string name="chineseFood">"Chinese Food "</string>
+    <string name="indianFood">"Indian Food "</string>
+    <string name="italianFood">"Italian Food "</string>
+    <string name="middleEastFood">"Middle Eastern Food "</string>
+    <string name="portugueseFood">"Portuguese Food "</string>
+    <string name="americanBundle">"itp341.bhatia.shamit.w3_d1.american_count"</string>
+    <string name="chineseBundle">"itp341.bhatia.shamit.w3_d1.chinese_count"</string>
+    <string name="indianBundle">"itp341.bhatia.shamit.w3_d1.indian_count"</string>
+    <string name="italianBundle">"itp341.bhatia.shamit.w3_d1.italian_count"</string>
+    <string name="middleEastBundle">"itp341.bhatia.shamit.w3_d1.middle_east_count"</string>
+    <string name="portugueseBundle">"itp341.bhatia.shamit.w3_d1.portuguese_count"</string>
+</resources>

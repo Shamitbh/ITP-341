@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextUnitsMoney"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fromTextMoney"
+        android:text="@string/from"
+        android:layout_below="@+id/editTextUnitsMoney"
+        android:layout_marginBottom="10dp"/>
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerFrom"
+        android:entries="@array/spinner_currency"
+        android:layout_below="@+id/fromTextMoney"
+        android:layout_marginBottom="10dp">
+    </Spinner>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toTextMoney"
+        android:text="@string/to"
+        android:layout_below="@id/spinnerFrom"
+        android:layout_alignStart="@+id/fromTextMoney"
+        android:layout_marginBottom="10dp"/>
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerTo"
+        android:entries="@array/spinner_currency"
+        android:layout_below="@+id/toTextMoney">
+    </Spinner>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/convertBtnMoney"
+        android:text="@string/convertText"
+        android:layout_below="@+id/spinnerTo"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/resultTextViewMoney"
+        android:text="@string/result"
+        android:layout_below="@id/convertBtnMoney"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/resultNumberMoney"
+        android:text="@string/blank"
+        android:layout_below="@id/convertBtnMoney"
+        android:layout_toEndOf="@id/resultTextViewMoney"
+        android:layout_marginStart="10dp"/>
+
+</RelativeLayout>

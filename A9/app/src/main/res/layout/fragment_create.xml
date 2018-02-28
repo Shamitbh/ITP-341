@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/movieTitle"
+        android:id="@+id/title_prompt"
+        android:textColor="#000000"
+        android:textSize="8pt"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextTitle"
+        android:layout_alignParentTop="true"
+        android:layout_alignBaseline="@+id/title_prompt"
+        android:layout_marginLeft="10dp"
+        android:layout_toEndOf="@+id/title_prompt" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/description"
+        android:textColor="#000000"
+        android:textSize="8pt"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/description_prompt"
+        android:layout_below="@+id/editTextTitle"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextDescription"
+        android:layout_below="@+id/editTextTitle"
+        android:layout_toEndOf="@+id/description_prompt"
+        android:layout_alignStart="@+id/editTextTitle"
+        android:maxLines="1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/genre"
+        android:id="@+id/textView"
+        android:textColor="#000000"
+        android:textSize="8pt"
+        android:layout_marginTop="49dp"
+        android:layout_below="@+id/editTextDescription"
+        android:layout_alignStart="@+id/description_prompt" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerGenre"
+        android:layout_alignTop="@+id/textView"
+        android:layout_toEndOf="@+id/textView"
+        android:entries="@array/spinner_genres"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="URL: "
+        android:textColor="#000000"
+        android:textSize="8pt"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/url_prompt"
+        android:layout_below="@+id/spinnerGenre"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextURL"
+        android:maxLines="1"
+        android:layout_alignStart="@+id/editTextTitle"
+        android:layout_below="@+id/spinnerGenre"
+        android:layout_toEndOf="@+id/url_prompt" />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save"
+        android:id="@+id/save_button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:id="@+id/imageViewCreate"
+        android:src="@drawable/horror"
+        android:layout_above="@+id/save_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp" />
+
+</RelativeLayout>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Train Tickets</string>
+    <string name="total_tickets_sold_today">Total Tickets sold today:</string>
+    <string name="ticket_count">0</string>
+    <string name="starting_location">Starting Location:</string>
+    <string name="ending_location">Ending Location:</string>
+    <string name="what_tkt">What kind of ticket?</string>
+    <string name="what_priority">Do you have priority?</string>
+
+    <string name="one_way">One Way</string>
+    <string name="round_trip">Round Trip</string>
+    <string name="day_pass">Day Pass</string>
+
+    <string name="no">No</string>
+    <string name="disabled">Disabled</string>
+    <string name="elderly">Elderly</string>
+    <string name="pregnant">Pregnant</string>
+    <string name="veteran">Veteran</string>
+    <string name="use_card">Use Card</string>
+    <string name="verify">Verify</string>
+
+    <string name="review_order">Please review your order:</string>
+    <string name="trip_from">Trip from:</string>
+    <string name="trip_to">Trip to:</string>
+    <string name="trip_type">Trip Type:</string>
+    <string name="trip_priority">Priorities:</string>
+    <string name="spain">Spain</string>
+    <string name="france">France</string>
+    <string name="none">None</string>
+
+    <string name="review_payment">Please review your payment info:</string>
+    <string name="card_num_label">Card Number:</string>
+    <string name="card_name_label">Name on card:</string>
+    <string name="card_num_value">1234567812345678</string>
+    <string name="card_name_value">Buzz Lightyear</string>
+    <string name="review_final">Does everything look right?</string>
+    <string name="edit_ticket">Edit Ticket</string>
+    <string name="edit_card">Edit Card</string>
+    <string name="purchase">Purchase</string>
+    <string name="enter_card">Enter your card information:</string>
+    <string name="save_card">Save Card</string>
+
+</resources>

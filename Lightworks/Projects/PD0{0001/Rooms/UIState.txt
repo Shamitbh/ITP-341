@@ -1,0 +1,8 @@
+{
+Tab:int 1
+SourceViewID ED0{001C
+Source id=ED0{001C|t=15.2917
+RecordViewID 000005E42A23609662
+Record id=ED0{001X|t=0
+Bin GZ1Z0000|INVALID
+}

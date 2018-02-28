@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Shamit/AndroidStudioProjects/W4PizzaOrder_Start/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W4PizzaOrder_Start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_927248f9b106e83650f67dbf08f82e6b21977f2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shamit/AndroidStudioProjects/W4PizzaOrder_Start/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68e0cc263085d63aa4aaad50aa856d0b1e883b0">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W4PizzaOrder_Start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1430baeedb86e44aa7476fc3bb0b3d5e6b809fa6/classes.dex" />
+    </item>
+
+</items>

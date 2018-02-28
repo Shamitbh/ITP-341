@@ -1,0 +1,7 @@
+#Mon Sep 11 13:25:29 PDT 2017
+base.0=/Users/Shamit/AndroidStudioProjects/W4PizzaOrder_Start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_927248f9b106e83650f67dbf08f82e6b21977f2d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Shamit/AndroidStudioProjects/W4PizzaOrder_Start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1430baeedb86e44aa7476fc3bb0b3d5e6b809fa6/classes.dex
+base.1=/Users/Shamit/AndroidStudioProjects/W4PizzaOrder_Start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1430baeedb86e44aa7476fc3bb0b3d5e6b809fa6
+file.0=/Users/Shamit/AndroidStudioProjects/W4PizzaOrder_Start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_927248f9b106e83650f67dbf08f82e6b21977f2d/classes.dex

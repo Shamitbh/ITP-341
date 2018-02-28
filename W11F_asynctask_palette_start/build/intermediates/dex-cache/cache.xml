@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/284473540397a3705ccc242cb9c272867c86eca8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W11F_asynctask_palette_start/app/build/intermediates/pre-dexed/debug/classes_4227224ac783e0382302e35adf380421d7a96246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/8b468d538b406e47f16e89c30842aade84ea58e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W11F_asynctask_palette_start/app/build/intermediates/pre-dexed/debug/classes_3f7764ca622dfb366e8e185021fc907920ec769a.jar" />
+    </item>
+
+</items>

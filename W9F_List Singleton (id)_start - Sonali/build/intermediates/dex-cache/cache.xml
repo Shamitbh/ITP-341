@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sonali Pai\.android\build-cache\250b208a4cbe31433971737f9133cf88f86c263d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07e07903922250dabf50c7d131d6fa069a050305">
+        <dex dex="C:\Users\Sonali Pai\AndroidStudioProjects\W9F_List Singleton (id)_start - Copy\app\build\intermediates\pre-dexed\debug\classes_d6b97ba6867c276dc0a309f5b2148563b107d9e7.jar" />
+    </item>
+
+</items>

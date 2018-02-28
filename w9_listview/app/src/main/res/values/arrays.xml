@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="puppies">
+        <item>labrador</item>
+        <item>golden retriever</item>
+        <item>pug</item>
+        <item>shiba inu</item>
+        <item>cattle dog</item>
+        <item>chihuahua</item>
+    </string-array>
+</resources>

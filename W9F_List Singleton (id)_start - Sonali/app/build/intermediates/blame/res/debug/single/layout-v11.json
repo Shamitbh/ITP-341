@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\AndroidStudioProjects\\W9F_List Singleton (id)_start - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\.android\\build-cache\\705fef10a772fe2597cb56d600d55982c02d62b5\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\AndroidStudioProjects\\W9F_List Singleton (id)_start - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\.android\\build-cache\\705fef10a772fe2597cb56d600d55982c02d62b5\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\AndroidStudioProjects\\W9F_List Singleton (id)_start - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\.android\\build-cache\\705fef10a772fe2597cb56d600d55982c02d62b5\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\AndroidStudioProjects\\W9F_List Singleton (id)_start - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\.android\\build-cache\\705fef10a772fe2597cb56d600d55982c02d62b5\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\AndroidStudioProjects\\W9F_List Singleton (id)_start - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\.android\\build-cache\\705fef10a772fe2597cb56d600d55982c02d62b5\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\AndroidStudioProjects\\W9F_List Singleton (id)_start - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/C:\\Users\\Sonali Pai\\.android\\build-cache\\705fef10a772fe2597cb56d600d55982c02d62b5\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Sonali/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

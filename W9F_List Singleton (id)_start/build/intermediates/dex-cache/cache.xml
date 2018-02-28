@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/906cd983bb52ecb30a3ba5ebc2e2056cd1b1b3b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07e07903922250dabf50c7d131d6fa069a050305">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start/app/build/intermediates/pre-dexed/debug/classes_a9e85293f22527793bda9b2909a6d3b85f73bb65.jar" />
+    </item>
+
+</items>

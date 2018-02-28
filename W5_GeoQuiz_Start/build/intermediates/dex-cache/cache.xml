@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_8567626533192e18edcaf9d6692f29388488c31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/786c30b386aae1f8aed2168ad4745ee02a43b035/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_2e13b95f6105ff5ce71b56a5a571ed742898e0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/68bacc55f90736741ab43c222406c3f765f17cbd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_33157d090d86fa21d5ff9d3719fedfa06c2e5df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/e49934647a697fec2b907891f6c3fcf87948d32e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_430799c90d5faada1d838b2eea5e1efd209d40c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_de86ff3da989f7b8f25988e800882a2f0cb248ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/0831cde32a84b5af971eb92e420e53907c7d8684/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_593e97b85b471101b268282b3eb27ab382ad58b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/6bf4b4e88a2d4453cce11fab9bf51f3d36f9c188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_3c332d8631a0903a156da39b7b435422e273021c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/3f7e1ac90852943a20eb8849bec334098f9a3b19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_cf155130f666de4be8117de1f024b6b479b95b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/b8e20fb8587cc2514ecc8509e479f82af47bdaea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_2b76a426c53da78716857c825033f126bffe4bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shamit/.android/build-cache/9be755dce5ce17b63b4cfbaac04eaa3ab04f8d07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Shamit/AndroidStudioProjects/W5_GeoQuiz_Start/app/build/intermediates/pre-dexed/debug/classes_4c4458c4ed9a5ac55bae34d7ffb9c02c60adf605.jar" />
+    </item>
+
+</items>

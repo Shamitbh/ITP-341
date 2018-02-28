@@ -1,0 +1,71 @@
+Attempting to create QWindow-based QOffscreenSurface outside the gui thread. Expect failures.
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/alphakey.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/bars.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/blend.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/blendmask.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/blur.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/boxblur.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/cc3.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/cc4.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/chanshift.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/chromakey3.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/colfind2.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/ColourConvert.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/ColTemp.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/coltint.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/coltintsmh2.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/curves.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/dve.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/dve1.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/dve2.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/flatcol.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/flip.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/flop.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/gaussian.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/glow.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/gradients.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/gradients2.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/gradients3.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/greyscale.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/hsicc.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/lumakey.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/lumawipe.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/lut3d.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/mix.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/mosaic.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/negative.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/null.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/OldTime.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/posterize.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/push.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/radialblur.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/resize.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/Sample 1 - Single input, Single pass.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/Sample 2 - Single input, Multi pass.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/Sample 3 - Multi input, Single pass.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/Sample 4 - Single input, Multi technique.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/selectivecc.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/selectivecc2.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/shapes2.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/sharpen.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/squeeze.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/Stereoscopic.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/StereoscopicAdjust.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/TextEffects.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/texwipe.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/threshold.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/tritone.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/unsharp.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/VideoAnalyserHelpers.fx .. done
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/wipes.fx .. done
+Attempting to create QWindow-based QOffscreenSurface outside the gui thread. Expect failures.
+Attempting to create QWindow-based QOffscreenSurface outside the gui thread. Expect failures.
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Attempting to create QWindow-based QOffscreenSurface outside the gui thread. Expect failures.
+Attempting to create QWindow-based QOffscreenSurface outside the gui thread. Expect failures.
+Attempting to create QWindow-based QOffscreenSurface outside the gui thread. Expect failures.
+[swscaler @ 0x7fc1fca23400] Warning: data is not aligned! This can lead to a speedloss
+QObject::startTimer: Timers can only be used with threads started with QThread
+Compiling shader : /Applications/Lightworks.app/Contents/MacOS/../Resources/Shaders/TextEffects.fx .. done
+Attempting to create QWindow-based QOffscreenSurface outside the gui thread. Expect failures.

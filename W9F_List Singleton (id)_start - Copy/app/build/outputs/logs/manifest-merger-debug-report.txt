@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/Shamit/.android/build-cache/786c30b386aae1f8aed2168ad4745ee02a43b035/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/Shamit/.android/build-cache/9be755dce5ce17b63b4cfbaac04eaa3ab04f8d07/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /Users/Shamit/.android/build-cache/b8e20fb8587cc2514ecc8509e479f82af47bdaea/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/Shamit/.android/build-cache/6bf4b4e88a2d4453cce11fab9bf51f3d36f9c188/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/Shamit/.android/build-cache/e49934647a697fec2b907891f6c3fcf87948d32e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/Shamit/.android/build-cache/0831cde32a84b5af971eb92e420e53907c7d8684/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/Shamit/.android/build-cache/3f7e1ac90852943a20eb8849bec334098f9a3b19/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /Users/Shamit/.android/build-cache/68bacc55f90736741ab43c222406c3f765f17cbd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.satyan:sugar:1.3] /Users/Shamit/.android/build-cache/906cd983bb52ecb30a3ba5ebc2e2056cd1b1b3b2/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:12:5-36:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/Shamit/.android/build-cache/5f726e7f67af062590db2aeb7281db8d0efa9848/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/Shamit/.android/build-cache/786c30b386aae1f8aed2168ad4745ee02a43b035/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/Shamit/.android/build-cache/9be755dce5ce17b63b4cfbaac04eaa3ab04f8d07/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/Shamit/.android/build-cache/b8e20fb8587cc2514ecc8509e479f82af47bdaea/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/Shamit/.android/build-cache/6bf4b4e88a2d4453cce11fab9bf51f3d36f9c188/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/Shamit/.android/build-cache/e49934647a697fec2b907891f6c3fcf87948d32e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/Shamit/.android/build-cache/0831cde32a84b5af971eb92e420e53907c7d8684/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/Shamit/.android/build-cache/3f7e1ac90852943a20eb8849bec334098f9a3b19/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/Shamit/.android/build-cache/68bacc55f90736741ab43c222406c3f765f17cbd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.github.satyan:sugar:1.3] /Users/Shamit/.android/build-cache/906cd983bb52ecb30a3ba5ebc2e2056cd1b1b3b2/output/AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:13:9-40
+activity#itp341.exercises.week9_list_singleton.app.MainListActivity
+ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:20:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:22:14-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:25:27-74
+activity#itp341.exercises.week9_list_singleton.app.DetailActivity
+ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:28:9-32:20
+	android:label
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/Shamit/AndroidStudioProjects/W9F_List Singleton (id)_start - Copy/app/src/main/AndroidManifest.xml:29:13-47
